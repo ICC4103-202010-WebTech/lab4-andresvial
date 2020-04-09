@@ -1,5 +1,7 @@
 # Base Code for Lab Assignment 4
 
+Andres Vial
+
 Take a careful look at the models and their associations.
 Then head to the `db/seed.rb` file and look at the models that are created initially.
 
